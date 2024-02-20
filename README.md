@@ -1,11 +1,11 @@
-### Olá! Eu sou o Caio Marcelo
+### Olá! Eu sou o Caio Marcelo / Hello! I'm Caio Marcelo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-marcelo-lima-ildefonso-campos-08728a26a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiomarcelo79_/)
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomarcelo79&show_icons=true&theme=merko)
 
-### Conhecimento
+### Conhecimento com // Knowledge with
 
 <div style="display: inline_block"><br>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-### Estudando
+### Estudando // Studying
 
 <div style="display: inline_block"><br>
 
