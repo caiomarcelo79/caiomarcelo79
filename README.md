@@ -7,27 +7,31 @@
 
 ### Conhecimento com // Knowledge with
 
+<style>
+    img{
+        margin: 0.5px;
+    }
+</style>
+
+
 <div style="display: inline_block"><br>
   
 <img align="center" alt = "hmtl5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt = "css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt = "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img align="center" alt = "c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img align="center" alt = "c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img align="center" alt = "javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt = "mysql" src="https://img.shields.io/badge/MySQL-4C7CBC?style=for-the-badge&logo=mysql&logoColor=white">
 
 </div>
 
 
 ### Estudando // Studying
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
 
 
 <img align="center" alt = "Node.Js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img align="center" alt = "React" src="https://img.shields.io/badge/React%20js-00B6FF?style=for-the-badge&logo=react&logoColor=black">
 <img align="center" alt = "MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img align="center" alt = "javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt = "php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img align="center" alt = "python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 
 </div>
