@@ -7,11 +7,6 @@
 
 ### Conhecimento com // Knowledge with
 
-<style>
-    img{
-        margin: 0.5px;
-    }
-</style>
 
 
 <div style="display: inline_block"><br>
