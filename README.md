@@ -5,6 +5,8 @@
 
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomarcelo79&show_icons=true&theme=merko)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=caiomarcelo79&theme=merko&border_radius=3)](https://git.io/streak-stats)
+
 ### Conhecimento com // Knowledge with
 
 
