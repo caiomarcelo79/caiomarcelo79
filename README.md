@@ -34,4 +34,6 @@
 
 ## Meus repositórios favoritos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caiomarcelo79&repo=Softmoda&theme=merko&show_icons=true)](https://github.com/caiomarcelo79/Softmoda)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caiomarcelo79&repo=CRUD-simples&theme=merko&show_icons=true)](https://github.com/caiomarcelo79/CRUD-simples)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caiomarcelo79&repo=barbie-landing-page&theme=merko&show_icons=true)](https://github.com/caiomarcelo79/barbie-landing-page)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caiomarcelo79&repo=Rede-Social&theme=merko&show_icons=true)](https://github.com/caiomarcelo79/Rede-Social)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=caiomarcelo79&repo=Produtos-Spring-React&theme=merko&show_icons=true)](https://github.com/caiomarcelo79/Produtos-Spring-React)
